@@ -36,7 +36,8 @@ h6 {
 /* General Layout */
 
 html {
-    background: url(https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNTQ1LXdpdC0yMV8xLmpwZw.jpg);
+    /*background: url(https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNTQ1LXdpdC0yMV8xLmpwZw.jpg);*/
+    background: url("Clouds.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
